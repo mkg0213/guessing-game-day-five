@@ -1,4 +1,3 @@
-/* Currently inactive, code is in index.html*/
 body {
 	background-color: #EAEAEA;
 }
@@ -8,27 +7,39 @@ h1 {
 	font-family: arial;
 	font-size: 20px;
 }
-		
+				
 p {
 	font-family: garamond;
 	font-size: 18px;
-	color: darkred;
+	color: purple;
 	font-weight: bold;
 }
-	
+			
 h4 {
 	font-family: garamond;
 	font-size: 18px;
 }
 
-#q1 {
+#correct1 {
 	color: #228b22;
 } 
 
-#q2 {
+#correct2 {
 	color: #228b22;
 } 
 
-#q3 {
+#correct3 {
 	color: #228b22;
+} 
+
+#incorrect1 {
+	color: red;
+} 
+
+#incorrect2 {
+	color: red;
+} 
+
+#incorrect3 {
+	color: red;
 } 
